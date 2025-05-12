@@ -11,7 +11,16 @@ Um clássico Jogo da Velha desenvolvido em Python com interface gráfica usando 
 - Menu para reiniciar o jogo
 
 ## ⚙️ Como Executar
-1. Certifique-se de ter Python instalado (versão 3.x)
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/LipePrieto/jogo-da-velha-tkinter.git
+1. Pré-requisitos
+Você precisa ter o Python 3.x instalado em sua máquina.
+Para verificar se o Python já está instalado digite no CMD:
+python --version
+
+2. Baixando o Projeto
+Clique no botão verde Code no topo deste repositório e selecione Download ZIP.
+Depois, extraia o conteúdo do arquivo ZIP em uma pasta no seu computador.
+
+3. Executando o Jogo
+Abra a pasta onde você extraiu o projeto e dê dois cliques no arquivo main.py
+ou, se preferir, abra um terminal na pasta e execute:
+jogodavelha.py
