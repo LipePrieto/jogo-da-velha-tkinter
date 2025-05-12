@@ -1,6 +1,6 @@
 # 🎮 Jogo da Velha em Python
 
-![Preview do Jogo](preview.png) *(opcional: adicione uma screenshot depois)*
+![Preview do Jogo](jogo.png)
 
 Um clássico Jogo da Velha desenvolvido em Python com interface gráfica usando Tkinter.
 
