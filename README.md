@@ -21,6 +21,6 @@ Clique no botão verde Code no topo deste repositório e selecione Download ZIP.
 Depois, extraia o conteúdo do arquivo ZIP em uma pasta no seu computador.
 
 3. Executando o Jogo
-Abra a pasta onde você extraiu o projeto e dê dois cliques no arquivo main.py
+Abra a pasta onde você extraiu o projeto e dê dois cliques no arquivo jogodavelha.py
 ou, se preferir, abra um terminal na pasta e execute:
 jogodavelha.py
